@@ -1,5 +1,5 @@
 # README
-# Hi there It's Nima
+# Hi there im Nima afshar
 
 Passionate about **Python** and **Java**
 
